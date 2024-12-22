@@ -334,6 +334,7 @@ body {
 
     .gallery-img {
         height: 130px;
+        width: 100px;
     }
 
     .photo-caption {
@@ -355,6 +356,7 @@ body {
 
     .gallery-img {
         height: 100px;
+        width: 100px;
     }
 
     .photo-caption {
